@@ -1,0 +1,9 @@
+Remplacez uniquement style.css à la racine de votre projet par le fichier fourni
+Cette version contient aussi les couleurs du nouveau logo officiel
+
+Puis dans le terminal VS Code :
+git add style.css
+git commit -m "Amelioration de la lisibilite des textes"
+git push
+
+Les descriptions, mentions et aides du formulaire sont plus contrastées et légèrement agrandies sur les quatre pages

@@ -1,0 +1,31 @@
+DIGITAL ÉNERGIES — MISE À JOUR DU LOGO ET DES COULEURS
+
+Ce ZIP contient les fichiers modifiés seulement
+Il doit compléter votre projet existant, pas être publié seul
+
+1 — Décompressez le ZIP dans un dossier temporaire
+2 — Copiez index.html, solutions.html, a-propos.html, contact.html et style.css dans votre projet digital_energie en acceptant leur remplacement
+3 — Copiez le contenu du dossier assets dans le dossier assets de votre projet
+    Conservez les autres images déjà présentes
+4 — Ouvrez index.html ou votre aperçu Live Server pour regarder la nouvelle identité
+5 — Dans le terminal VS Code, à la racine de votre projet :
+
+    git add .
+    git commit -m "Nouveau logo officiel et couleurs Digital Energies"
+    git push
+
+GitHub Pages republiera le site après la mise à jour de la branche main
+Adresse de votre site : https://maes-k.github.io/digital-energies/
+
+Modifications : nouveau logo officiel non recadré, couleurs bleu profond et bleu vif, accents orange-jaune, boutons et fonds harmonisés sur les quatre pages
+Les textes sans points finaux sont conservés
+Les coordonnées et le fonctionnement du formulaire WhatsApp sont conservés
+
+PALETTE
+Bleu profond : #082866
+Bleu principal : #0066B8
+Bleu clair : #009CE3
+Jaune : #FFC400
+Orange : #FF8500
+
+Le nouveau fichier image est assets/logo-officiel-digital-energies.jpeg
