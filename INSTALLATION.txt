@@ -1,0 +1,12 @@
+Mise à jour des images — Digital Énergies
+
+Copiez les fichiers HTML et style.css dans votre projet en acceptant leur remplacement
+Ajoutez les quatre nouvelles images au dossier assets en conservant les autres fichiers
+Cette version conserve le logo officiel et les derniers réglages de lisibilité
+
+Dans le terminal VS Code :
+git add .
+git commit -m "Visuels plus naturels sur le site"
+git push
+
+Ces images sont générées à titre illustratif et ne représentent pas des clients ou des réalisations vérifiés
